@@ -1,1 +1,9 @@
-
+{
+  "owner": {
+    "username": "miracleek",
+    "email": "aldoores@gmail.com"
+  },
+  "records": {
+    "CNAME": "miracleek.github.io"
+  }
+}
